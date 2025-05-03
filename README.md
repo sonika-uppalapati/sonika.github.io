@@ -3,8 +3,8 @@
 #### Technical Skills: Tableau, Power BI, Python, SQL, Project Management
 
 ## Education						       		
-- MBA, Business Analytics	| SRM Institute of Science and Technology (_May 2024_)	 			        		
-- BE, Computer Science | Panimalar Engineering College  (_May 2021_)
+- MBA, Business Analytics	| SRM University (_May 2024_)	 			        		
+- BE, Computer Science | Anna University  (_May 2021_)
 
 ## Work Experience
 **PMO Analyst @ Tata Consultancy Services (_November 2021 - April 2024_)**
