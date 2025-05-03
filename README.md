@@ -36,14 +36,14 @@
 
 To analyze Flipkart's sales data and provide actionable insights into product performance, discount strategies, and operational efficiency. Flipkart, as a leading e-commerce platform, generates vast amounts of data. This project aims to leverage Tableau to create a comprehensive dashboard for better decision-making
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Flipkart](/assets/flipkart-banner.png)
 
 ### DHL Supply Chain & Logistic Management Dashboard
 [Github](https://github.com/sonika-uppalapati/DHL-Supply-Chain-Analytics)
 
 To analyze supply chain data, uncover actionable insights, and optimize operational efficiency for DHL Supply Chain operations. The project aims to assist in identifying key bottlenecks, improving supply chain workflows, and enhancing decision-making with data-driven strategies.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![DHL](/assets/img/DHL.png)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
