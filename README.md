@@ -43,7 +43,7 @@ To analyze Flipkart's sales data and provide actionable insights into product pe
 
 To analyze supply chain data, uncover actionable insights, and optimize operational efficiency for DHL Supply Chain operations. The project aims to assist in identifying key bottlenecks, improving supply chain workflows, and enhancing decision-making with data-driven strategies.
 
-![DHL](/assets/img/DHL.png)
+![DHL](/assets/DHL.png)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
