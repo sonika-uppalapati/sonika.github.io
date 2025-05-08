@@ -1,10 +1,20 @@
-# Data Analyst | Business Analyst | PMO Analyst
+# Data Analyst | Business Analyst | PMO Analyst | Learning and Development
 
-#### Technical Skills: Tableau, Power BI, Python, SQL, Project Management
+#### Technical Skills: Tableau, Power BI, Excel, Python, SQL
+#### Tools: JIRA, Confluence, Google Workspace, Microsoft Office
+#### Project Management: Product Backlog Management, Agile Practices, PMO Support, Resource Allocation, Procurement Management, Inventory Management
+#### Learning & Development: Training Dashboard Creation, Program Analysis, Gap Analysis
+#### Soft Skills: Analytical Thinking, Communication, Stakeholder Management, Problem Solving, Time Management, Strong Attention to Detail, Reporting, Presentation & Meeting Support
 
 ## Education						       		
-- MBA, Business Analytics	| SRM University (_May 2024_)	 			        		
+- MBA, Business Analytics	| SRM University (_May 2024_)
+  - Completed my MBA Business Analytics with focus on data-driven decision making, statistical analysis and business intelligence tools.
+  - GPA on scale of 10 : 8.7 / 10
+		        		
 - BE, Computer Science | Anna University  (_May 2021_)
+  - Completed BE computer science, gaining a strong foundation in programming, data structures and software development.
+  - GPA on scale of 10 : 7.9 / 10
+
 
 ## Work Experience
 **PMO Analyst @ Tata Consultancy Services (_November 2021 - April 2024_)**
