@@ -90,5 +90,5 @@ Developed an interactive Zomato food delivery analysis dashboard to analyze orde
 
 ## VOLUNTEERING
 - Elementary Educator ~ TCS (_February 2023 ~ April 2024_)
-- WomenTech Circle Leader (_May 2025 ~ Present)
+- WomenTech Circle Leader (_May 2025 ~ Present_)
 
