@@ -7,11 +7,11 @@
 #### Soft Skills: Analytical Thinking, Communication, Stakeholder Management, Problem Solving, Time Management, Strong Attention to Detail, Reporting, Presentation & Meeting Support
 
 ## Education						       		
-- MBA, Business Analytics	| SRM University (_May 2024_)
+MBA, Business Analytics	| SRM University (_May 2024_)
   - Completed my MBA Business Analytics with focus on data-driven decision making, statistical analysis and business intelligence tools.
   - GPA on scale of 10 : 8.7 / 10
 		        		
-- BE, Computer Science | Anna University  (_May 2021_)
+BE, Computer Science | Anna University  (_May 2021_)
   - Completed BE computer science, gaining a strong foundation in programming, data structures and software development.
   - GPA on scale of 10 : 7.9 / 10
 
@@ -22,7 +22,7 @@
 
 ⚙️ Provided project management support by tracking milestones, refining product backlogs, and supporting stakeholder engagement initiatives.
 
- 🚀Led data-driven optimization of resource planning, reducing onboarding and staffing turnaround times by 50%.
+🚀Led data-driven optimization of resource planning, reducing onboarding and staffing turnaround times by 50%.
 
 📈 Defined and implemented data strategies and reporting solutions to drive procurement and operations efficiencies, achieving a 30% boost in process efficiency.
 
@@ -30,11 +30,11 @@
 
 💡 Supported legacy system decommission efforts and transitioned reporting frameworks to cloud-based solutions.
 
- 📦 Supported legacy system decommission efforts and transitioned reporting frameworks to cloud-based solutions.
+📦 Supported legacy system decommission efforts and transitioned reporting frameworks to cloud-based solutions.
 
 📊 Developed learning resources, training dashboards, and program evaluation metrics to support internal Learning & Development (L&D) initiatives, contributing to a 70% improvement in team productivity.
 
- ⚙️ Applied Agile practices, collaborated cross-functionally, and managed project documentation, enhancing communication between technical and business teams.
+⚙️ Applied Agile practices, collaborated cross-functionally, and managed project documentation, enhancing communication between technical and business teams.
 
 🚀 Built and maintained governance frameworks for data reporting, ensuring compliance and evergreen reporting solutions.
 
